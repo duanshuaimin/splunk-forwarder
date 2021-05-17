@@ -4,7 +4,7 @@
     "title": "notification-forwarder",
     "id": {
       "group": null, 
-      "name": "notification-forwarder-app",
+      "name": "notification-forwarder",
       "version": "2.0.0"
     }, 
     "author": [
